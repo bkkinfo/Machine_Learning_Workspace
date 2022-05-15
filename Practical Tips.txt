@@ -1,0 +1,5 @@
+
+
+
+when to apply Ridge Regression?
+whrn we have more than 2 column 
